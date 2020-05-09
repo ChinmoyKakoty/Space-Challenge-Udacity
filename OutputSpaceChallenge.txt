@@ -1,0 +1,124 @@
+Running Phase 1>>>
+Running Phase 2>>>
+The item building toolsA of weight 3000  amount of load can be carried!!
+Current weight is :13000
+The item building toolsB of weight 3000  amount of load can be carried!!
+Current weight is :16000
+The item  building toolsC of weight 3000 load cannot be carried
+New rokcet R2 of U1 created
+Current weight is :13000
+The item building toolsD of weight 2000  amount of load can be carried!!
+Current weight is :15000
+The item building toolsE of weight 2000  amount of load can be carried!!
+Current weight is :17000
+The item  building toolsF of weight 2000 load cannot be carried
+New rokcet R2 of U1 created
+Current weight is :12000
+The item building toolsG of weight 1000  amount of load can be carried!!
+Current weight is :13000
+The item building toolsH of weight 1000  amount of load can be carried!!
+Current weight is :14000
+The item building toolsI of weight 1000  amount of load can be carried!!
+Current weight is :15000
+The item  shelter equipment of weight 5000 load cannot be carried
+New rokcet R2 of U1 created
+Current weight is :15000
+The item  construction equipment of weight 5000 load cannot be carried
+New rokcet R2 of U1 created
+Current weight is :15000
+The item  plants of weight 5000 load cannot be carried
+New rokcet R2 of U1 created
+Current weight is :15000
+The item  steel of weight 8290 load cannot be carried
+New rokcet R2 of U1 created
+Current weight is :18290
+The item  books of weight 1000 load cannot be carried
+New rokcet R2 of U1 created
+Current weight is :11000
+The item water of weight 5000  amount of load can be carried!!
+Current weight is :16000
+The item habitat of weight 1000  amount of load can be carried!!
+Current weight is :11000
+The item habitat of weight 1000  amount of load can be carried!!
+Current weight is :12000
+The item colony of weight 5000  amount of load can be carried!!
+Current weight is :17000
+The item  food of weight 5000 load cannot be carried
+New rokcet R2 of U1 created
+Current weight is :15000
+The item  colony of weight 5000 load cannot be carried
+New rokcet R2 of U1 created
+Current weight is :15000
+The item  food of weight 5000 load cannot be carried
+New rokcet R2 of U1 created
+Current weight is :15000
+The item  colony of weight 5000 load cannot be carried
+New rokcet R2 of U1 created
+Current weight is :15000
+The item  food of weight 5000 load cannot be carried
+New rokcet R2 of U1 created
+Current weight is :15000
+The item  habitat of weight 8000 load cannot be carried
+New rokcet R2 of U1 created
+Current weight is :18000
+the cost of u1 first phase is=800millions
+the cost of u1 second phase is=600millions
+The item building toolsA of weight 3000  amount of load can be carried!!
+Current weight is :21000
+The item building toolsB of weight 3000  amount of load can be carried!!
+Current weight is :24000
+The item building toolsC of weight 3000  amount of load can be carried!!
+Current weight is :27000
+The item building toolsD of weight 2000  amount of load can be carried!!
+Current weight is :29000
+The item  building toolsE of weight 2000 load cannot be carried
+New Rocket R2 of U2 created
+Current weight is :20000
+The item building toolsF of weight 2000  amount of load can be carried!!
+Current weight is :22000
+The item building toolsG of weight 1000  amount of load can be carried!!
+Current weight is :23000
+The item building toolsH of weight 1000  amount of load can be carried!!
+Current weight is :24000
+The item building toolsI of weight 1000  amount of load can be carried!!
+Current weight is :25000
+The item  shelter equipment of weight 5000 load cannot be carried
+New Rocket R2 of U2 created
+Current weight is :23000
+The item construction equipment of weight 5000  amount of load can be carried!!
+Current weight is :28000
+The item  plants of weight 5000 load cannot be carried
+New Rocket R2 of U2 created
+Current weight is :23000
+The item  steel of weight 8290 load cannot be carried
+New Rocket R2 of U2 created
+Current weight is :26290
+The item books of weight 1000  amount of load can be carried!!
+Current weight is :27290
+The item  water of weight 5000 load cannot be carried
+New Rocket R2 of U2 created
+Current weight is :23000
+The item habitat of weight 1000  amount of load can be carried!!
+Current weight is :19000
+The item habitat of weight 1000  amount of load can be carried!!
+Current weight is :20000
+The item colony of weight 5000  amount of load can be carried!!
+Current weight is :25000
+The item  food of weight 5000 load cannot be carried
+New Rocket R2 of U2 created
+Current weight is :23000
+The item colony of weight 5000  amount of load can be carried!!
+Current weight is :28000
+The item  food of weight 5000 load cannot be carried
+New Rocket R2 of U2 created
+Current weight is :23000
+The item colony of weight 5000  amount of load can be carried!!
+Current weight is :28000
+The item  food of weight 5000 load cannot be carried
+New Rocket R2 of U2 created
+Current weight is :23000
+The item  habitat of weight 8000 load cannot be carried
+New Rocket R2 of U2 created
+Current weight is :26000
+the cost of u2 first phase is=600millions
+the cost of u2 second phase is=480millions
